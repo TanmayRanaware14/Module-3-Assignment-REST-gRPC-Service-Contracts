@@ -1,0 +1,6 @@
+flask==3.0.3
+requests==2.32.3
+urllib3==1.26.20
+grpcio==1.67.1
+grpcio-tools==1.67.1
+protobuf==5.28.3
